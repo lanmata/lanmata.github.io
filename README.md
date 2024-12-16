@@ -1,3 +1,6 @@
+<!-- Example usage in a Markdown file -->
+<div style="background-color: #f0f0f0; padding: 10px;">
+
 # Luis Mata
 
 ## Bio
@@ -31,3 +34,4 @@ I have a passion for innovation and knowledge sharing, and I am always eager to 
 - Email: luis.antonio.mata@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/luismatam/)
 - [GitHub](https://github.com/lanmata)
+</div>
